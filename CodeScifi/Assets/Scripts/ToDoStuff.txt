@@ -1,0 +1,21 @@
+Start adding more stuff on Project Scifi
+---------------------------------------------
+Completed:
+*Player Controls
+*Sprint
+*Change levels
+---------------------------------------------
+Need to do:
+*Shoot a prefab, script is done but needs a prefab and testing
+*Enemy Ai, simple or sophisticated
+*Power up abilities
+*Trigger Event
+*Healing functions
+*Armor functions
+*Speed Boost
+*On hit kill(one punch man powerup)
+*God mode
+---------------------------------------------
+Make it more sophisticated but functional 
+*Change levels
+*Player Controls
