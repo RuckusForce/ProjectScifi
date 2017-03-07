@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeScifi", "CodeScifi.csproj", "{F278CED9-3571-0E31-1B79-7B042E172A94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeScifi.CSharp", "CodeScifi.CSharp.csproj", "{B68C3ED8-9223-EFE2-F9C4-20E28EEC9A1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F278CED9-3571-0E31-1B79-7B042E172A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F278CED9-3571-0E31-1B79-7B042E172A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F278CED9-3571-0E31-1B79-7B042E172A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F278CED9-3571-0E31-1B79-7B042E172A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68C3ED8-9223-EFE2-F9C4-20E28EEC9A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68C3ED8-9223-EFE2-F9C4-20E28EEC9A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68C3ED8-9223-EFE2-F9C4-20E28EEC9A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68C3ED8-9223-EFE2-F9C4-20E28EEC9A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
